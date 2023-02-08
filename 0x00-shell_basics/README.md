@@ -11,3 +11,4 @@ The rmdir command deletes a directory.
 The cd .. command takes us back to the previous directory.
 ls -la echo /alx-system_engineering-devops ls -la /boot' prints current working directory and hidden files, parent directory and content in booot directory.
 The file command returns the file type.
+ln -s command creates symblink
