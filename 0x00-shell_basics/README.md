@@ -7,3 +7,4 @@ The ls -l -n -la command prints all the contents in the directory including the 
 The mkdir command creates a new directory.
 The mv command moves a file from one directory to another.
 The rm commad deletes files.
+The rmdir command deletes a directory.
