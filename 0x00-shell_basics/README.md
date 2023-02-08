@@ -9,3 +9,4 @@ The mv command moves a file from one directory to another.
 The rm commad deletes files.
 The rmdir command deletes a directory.
 The cd .. command takes us back to the previous directory.
+ls -la echo /alx-system_engineering-devops ls -la /boot' prints current working directory and hidden files, parent directory and content in booot directory.
