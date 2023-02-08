@@ -8,3 +8,4 @@ The mkdir command creates a new directory.
 The mv command moves a file from one directory to another.
 The rm commad deletes files.
 The rmdir command deletes a directory.
+The cd .. command takes us back to the previous directory.
