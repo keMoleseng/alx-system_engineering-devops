@@ -6,3 +6,4 @@ The ls -la command lists all files including hidden files.
 The ls -l -n -la command prints all the contents in the directory including the file ids and hidden files.
 The mkdir command creates a new directory.
 The mv command moves a file from one directory to another.
+The rm commad deletes files.
